@@ -1,0 +1,104 @@
+body.background {
+    background-image: url('https://assets.onecompiler.app/43fvz8gg6/43g6zz48p/Sem%20t%C3%ADtulo.png');
+    background-size: 75% auto; /* imagem menor */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: white;
+    min-height: 100vh;
+    text-align: center;
+    padding-top: 0px;
+    font-family: Arial, sans-serif;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0px;
+    height: 10vh;
+}
+
+.menu button {
+    padding: 3px 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.menu a {
+    background-color: #f1c40f;
+    color: #000;
+    padding: 1px 2px;
+    text-decoration: none;
+    border-radius: 2px;
+    margin: 3px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    background-color: #f39c12;
+    color: white;
+}
+
+.content-box {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 0px;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: left;
+    margin-top: 1px;
+    max-width: 500px;
+}
+
+form label {
+    display: block;
+    margin-top: 4px;
+    font-weight: bold;
+}
+
+form input, form select, form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form button, .button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover, .button:hover {
+    background-color: #1e8449;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #f1c40f;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
