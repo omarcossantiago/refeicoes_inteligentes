@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Servir Refeição - Refeições Inteligentes</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         .aluno-info {
             display: flex;
