@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Gerenciar Reservas - Refeições Inteligentes</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body class="background">
 <h1>Refeições Inteligentes</h1>
