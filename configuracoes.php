@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Configurações - Refeições Inteligentes</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <script>
     function confirmarExclusao(tipo) {
         return confirm('Tem certeza que deseja excluir este ' + tipo + '? Essa ação não pode ser desfeita.');
