@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Cadastrar Aluno - Refeições Inteligentes</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <style>
         .foto-preview-container {
             display: flex;
