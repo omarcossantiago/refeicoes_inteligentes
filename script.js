@@ -1,0 +1,1 @@
+// JS básico já incluso inline
